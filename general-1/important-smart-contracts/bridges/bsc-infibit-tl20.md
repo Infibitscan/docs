@@ -1,2 +1,0 @@
-# BSC ↔ Infibit TL20
-
