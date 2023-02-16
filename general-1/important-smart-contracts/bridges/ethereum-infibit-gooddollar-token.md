@@ -1,0 +1,2 @@
+# Ethereum ↔ Infibit GoodDollar Token
+
