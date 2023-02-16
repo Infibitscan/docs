@@ -17,6 +17,6 @@ The Infibit documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
 
 {% hint style="info" %}
-Join our [Telegram group](broken-reference)\
+Join our Telegram group\
 Or say hello at: hello@infibitscan.com
 {% endhint %}
