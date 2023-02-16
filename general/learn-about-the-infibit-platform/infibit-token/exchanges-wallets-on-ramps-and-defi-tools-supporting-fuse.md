@@ -4,11 +4,9 @@
 
 ### Centralized
 
-[Gate.io](https://gate.io)
+Gate.io
 
-[BitMart](https://bitmart.com)
-
-[Liquid Global](https://liquid.com)
+BitMart
 
 The best data on the active IBIT trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
 
@@ -22,7 +20,7 @@ Loopring
 
 KyberSwap
 
-1inch&#x20;
+1inch
 
 DoDo
 
@@ -34,11 +32,9 @@ DoDo
 
 ## Wallets
 
-[Infibit Cash](https://fuse.c)
-
 Metamask
 
-Metamask Mobile&#x20;
+Metamask Mobile
 
 [Ledger](https://ledger)
 
@@ -46,14 +42,14 @@ Metamask Mobile&#x20;
 
 [imToken](https://token.im)
 
-Trust Wallet (Binance Smart Chain)
+Trust Wallet
 
 ## DeFi Tools
 
-[Infibit Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
+Infibit Staking
 
-[Infibit Rewards](https://rewards.infibitscan.com)
+Infibit Rewards
 
-[Infibit Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
+Infibit Lending Network
 
-[Staking Rewards](https://www.stakingrewards.com/)
+Staking Rewards
