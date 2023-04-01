@@ -4,7 +4,7 @@ Infibit is already a significantly decentralized platform and plans are in motio
 
 1\) **Network Validators.** Infibit validators are entrusted with deciding whether to adopt [Infibit improvement proposals](https://docs.infibitscan.com/general/fips) (FIPs).  Currently, every validator has one vote regardless of their share of the overall network stake but this is likely to change soon.
 
-2\) **Infibit Foundation and the project team**. Like most public blockchain projects at the initial stage of development, the development of the core network protocol and the Infibit treasury that mostly consists of the undistributed genesis IBIT supply (see the subsection "[IBIT Supply and Current Distribution](https://docs.infibitscan.com/general/fuse-token/fuse-supply-and-current-distribution)") are currently mostly managed by a foundation. For Infibit, this role is played by Gibraltar-incorporated company Infibit Limited.
+2\) **Infibit Foundation and the project team**. Like most public blockchain projects at the initial stage of development, the development of the core network protocol and the Infibit treasury that mostly consists of the undistributed genesis IBIT supply (see the subsection "[IBIT Supply and Current Distribution](https://docs.infibitscan.com/general/infibit-token/fuse-supply-and-current-distribution)") are currently mostly managed by a foundation. For Infibit, this role is played by Gibraltar-incorporated company Infibit Limited.
 
 Infibit Foundation **employs the Infibit project team** whose members' profiles can be found [here](https://infibitscan.com/about).
 
@@ -12,4 +12,4 @@ The project team implements network protocol updates adopted by the validators, 
 
 That said, since Infibit is a decentralized public blockchain platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Infibit, including the development of the network and node software.
 
-3\) **Infibit Assembly.** See the Assembly [page](https://docs.infibitscan.com/general/fuse-governance/fuse-assembly) for more details.  &#x20;
+3\) **Infibit Assembly.** See the Assembly [page](https://docs.infibitscan.com/general/fuse-governance/infibit-assembly) for more details.  &#x20;

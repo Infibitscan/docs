@@ -12,9 +12,9 @@
 
 <!-- **Infibit announcements group**: [https://t.me/FuseAnnouncements](https://t.me/FuseAnnouncements) -->
 
-<!-- **Infibit Cash group**: [https://t.me/fusecash](https://t.me/fusecash) -->
+<!-- **Infibit Cash group**: [https://t.me/infibitcash](https://t.me/infibitcash) -->
 
-<!-- **medifaktSwap group**: [https://t.me/fuseswap](https://t.me/fuseswap) -->
+<!-- **medifaktSwap group**: [https://t.me/infibitswap](https://t.me/infibitswap) -->
 
 <!-- **Infibit NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20; -->
 

@@ -10,7 +10,7 @@ How to Stake Infibit:
 
 **Step 1:**
 
-Navigate to staking.infibitscan.com and login to your wallet through metamask. Make sure you are on Infibit network. If you are not please follow the instructions [**here**](https://docs.infibitscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.infibitscan.com and login to your wallet through metamask. Make sure you are on Infibit network. If you are not please follow the instructions [**here**](https://docs.infibitscan.com/the-infibit-studio/getting-started/how-to-add-infibit-to-your-metamask).
 
 ![](../.gitbook/assets/0%20%284%29.png)
 

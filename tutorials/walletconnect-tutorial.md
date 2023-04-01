@@ -13,7 +13,7 @@ Open your Infibit cash wallet on your phone and the interface shown will be simi
 
 **Step 2:**
 
-Navigate to [https://www.fuseswap.com/](https://www.fuseswap.com/) on your computer and the interface will be as shown below
+Navigate to [https://www.infibitswap.com/](https://www.infibitswap.com/) on your computer and the interface will be as shown below
 
 ![](../.gitbook/assets/1%20%2817%29.png)
 
@@ -21,16 +21,16 @@ Use the “Connect to a wallet” on the right hand top corner and select “Wal
 
 ![](../.gitbook/assets/2%20%2817%29.png)
 
-**Step 3:** On your fuse cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.fuseswap.com](http://www.fuseswap.com/) in the previous step  
+**Step 3:** On your fuse cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.infibitswap.com](http://www.infibitswap.com/) in the previous step  
 
 
 ![](../.gitbook/assets/3%20%283%29.jpeg)
 
-Once the QR code is scanned fuse cash wallet will ask permission to connect your fuse cash wallet with fuseswap dex as shown below. Click on “Connect” to confirm the connection.
+Once the QR code is scanned fuse cash wallet will ask permission to connect your fuse cash wallet with infibitswap dex as shown below. Click on “Connect” to confirm the connection.
 
 ![](../.gitbook/assets/4%20%283%29.jpeg)
 
-You have successfully connected your fuse cash wallet with fuseswap dex through WalletConnect. You can verify this by double checking the wallet address of your fuse cash wallet with the wallet address displayed on top hand right corner of fuseswap dex.
+You have successfully connected your fuse cash wallet with infibitswap dex through WalletConnect. You can verify this by double checking the wallet address of your fuse cash wallet with the wallet address displayed on top hand right corner of infibitswap dex.
 
 Now we will continue and add liquidity on Fuseswap.
 

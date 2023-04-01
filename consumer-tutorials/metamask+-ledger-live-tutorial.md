@@ -48,5 +48,5 @@ Once the device bridge is opened, go back to Metamask and select the Account \(a
 
 You will be logged in to the address you selected and now you can change the network to “Infibit network” and perform the transactions on Infibit network through your Ledger device.
 
-Note: To learn how to add Infibit RPC follow [this link.](https://docs.infibitscan.com/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask)
+Note: To learn how to add Infibit RPC follow [this link.](https://docs.infibitscan.com/the-infibit-studio/getting-started/how-to-add-infibit-to-your-metamask)
 

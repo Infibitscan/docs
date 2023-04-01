@@ -6,7 +6,7 @@ Please refer to the guide [here](https://tutorials.infibitscan.com/tutorials/net
 
 **Wallets supporting the Infibit blockchain**:
 
-[Metamask](https://metamask.io),(RPC needs to be added manually), [Infibit Wallet](https://play.google.com/store/apps/details?id=io.fuse.fusecash\&hl=en\&gl=US)
+[Metamask](https://metamask.io),(RPC needs to be added manually), [Infibit Wallet](https://play.google.com/store/apps/details?id=io.fuse.infibitcash\&hl=en\&gl=US)
 
 **On-ramps to Infibit**:
 

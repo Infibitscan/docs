@@ -3,7 +3,7 @@
 1. Download the Infibit wallet from the following links:
 
 * For iOS users: [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://apps.apple.com/il/app/fuse-wallet/id1491783654)
-* For Android users: [https://play.google.com/store/apps/details?id=io.fuse.fusecash](https://play.google.com/store/apps/details?id=io.fuse.fusecash)
+* For Android users: [https://play.google.com/store/apps/details?id=io.fuse.infibitcash](https://play.google.com/store/apps/details?id=io.fuse.infibitcash)
 
    2. After installing the app register and open the sidebar and click on "Switch community" and click "scan the QR code"
 

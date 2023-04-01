@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on IBIT-BNB pair on Pancakeswap.
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and IBIT should be on Binance smart chain network. To learn how to bridge them from Infibit network to BSC using Fuseswap this [tutorial](https://docs.infibitscan.com/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+·        BNB and IBIT should be on Binance smart chain network. To learn how to bridge them from Infibit network to BSC using Fuseswap this [tutorial](https://docs.infibitscan.com/the-infibit-chain/token-bridges/transfer-infibit-using-bridge-on-infibitswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.

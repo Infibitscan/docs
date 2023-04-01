@@ -2,7 +2,7 @@
 description: We will learn on how to add liquidity to Fuseswap on IBIT/USDC pair.
 ---
 
-# Adding liquidity to FuseSwap
+# Adding liquidity
 
 **Prerequisites:**
 
@@ -13,11 +13,11 @@ description: We will learn on how to add liquidity to Fuseswap on IBIT/USDC pair
 
 Navigate to [www.infibitswap.com](https://infibitswap.com/) .The interface will look like as shown below
 
-![](../../.gitbook/assets/0%20%287%29.png)
+![](../.gitbook/assets/0%20%287%29.png)
 
 Use **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see that you are connected to Fuseswap via Infibit network.
 
-![](../../.gitbook/assets/1%20%2810%29.png)
+![](../.gitbook/assets/1%20%2810%29.png)
 
   
 **Step 2:**
@@ -26,7 +26,7 @@ Click on **“Pool”** and then on **“Add liquidity”**. Select IBIT as your
 
 You can also see your share of the liquidity pool based on the amount of IBIT you want to provide liquidity for.
 
-![](../../.gitbook/assets/2%20%2810%29.png)
+![](../.gitbook/assets/2%20%2810%29.png)
 
 Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
@@ -36,7 +36,7 @@ Once the transaction is confirmed on-chain click on **“Supply”** and approve
 
 Navigating to **“Pool”** on Fuseswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 
-![](../../.gitbook/assets/3%20%289%29.png)
+![](../.gitbook/assets/3%20%289%29.png)
 
 Hope this tutorial helped you to learn on how to add liquidity. If not, feel free to reach out on our social media channels.
 

@@ -2,7 +2,7 @@
 description: Integrate your product to your community and token trough the Studio API.
 ---
 
-# Backend API
+# Studio API
 
 ## infibit-studio-backend v0.1.0
 
