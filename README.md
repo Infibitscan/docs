@@ -18,5 +18,5 @@ The Infibit documentation is separated into three major parts:
 
 {% hint style="info" %}
 Join our Telegram group\
-Or say hello at: hello@infibitscan.com
+Or say hello at: info@infibitscan.com
 {% endhint %}
