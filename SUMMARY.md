@@ -64,7 +64,7 @@
 ## Links
 
 * [Discord](https://discord.com)
-* [Facebook](https://www.facebook.com/)
+* [Linkedin](https://www.linkedin.com/company/galaxylabsllc/)
 * [GitHub](https://github.com)
 * [Medium](https://medium.com)
 * [Telegram](https://t.me/infibit)
