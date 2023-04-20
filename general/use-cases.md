@@ -1,4 +1,4 @@
-# Infibit Mobile Infrastructure Use Cases
+# INFibit Mobile Infrastructure Use Cases
 
 Given its easily customizable character, Infibit's mobile-centric infrastructure for issuing tokens and creating communities around them has a wide range of potential applications.
 
@@ -7,8 +7,6 @@ Companies and other organizations can use either Infibit Studio or Infibit Studi
 In what follows, we would like to provide a few already implemented token community use cases for illustration.
 
 ## A Stable Currency for a Local Economy
-
-## A Customer Rewards Token and Food Delivery app
 
 ## A Festival Payments Token
 

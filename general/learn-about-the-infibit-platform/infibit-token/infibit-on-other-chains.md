@@ -8,16 +8,8 @@ Currently, wrapped versions of IBIT token exist on Ethereum (mainnet), Binance S
 
 ### IBIT on Ethereum
 
-Token contract: https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d
-
 ### IBIT on Polygon
-
-Token contract: https://polygonscan.com/address/0xf915fdda4c882731c0456a4214548cd13a822886
 
 ### IBIT on Binance Smart Chain
 
-Token contract: https://bscscan.com/address/0x5857c96dae9cf8511b08cb07f85753c472d36ea3
-
 ### IBIT on Arbitrum One
-
-Token contract: https://arbiscan.io/token/0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286
