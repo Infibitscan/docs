@@ -6,8 +6,8 @@ The basic requirement to become a Infibit chain validator is to have a stake amo
 
 There are two options to stake (both should be called from the address which would be the validator)
 
-1. 1.Send Infibit tokens to the [consensus contract](https://infibitscan.com/address/0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC) - 0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC on the fuse network.
-2. 2.Call the \`stake\` function on the [consensus contract](https://infibitscan.com/address/0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC) - 0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC on the fuse network.
+1. 1.Send Infibit tokens to the [consensus contract](https://infibitscan.com/address/0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC) - .
+2. 2.Call the \`stake\` function on the [consensus contract](https://infibitscan.com/address/0xF675Ab037DFe69E13CC99541f9212629D8eeCfbC) - .
 
 ## Delegate <a href="#delegate" id="delegate"></a>
 
