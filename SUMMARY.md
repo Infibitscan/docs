@@ -63,10 +63,10 @@
 
 ## Links
 
-* [Discord](https://discord.com)
-* [Linkedin](https://www.linkedin.com/company/galaxylabsllc/)
-* [GitHub](https://github.com)
-* [Medium](https://medium.com)
+* [Discord](https://discord.gg/infibit)
+* [Linkedin](https://www.linkedin.com/company/galaxylabsllc)
+* [GitHub](https://github.com/infibitscan)
+* [Medium](https://0xinfibit.medium.com)
 * [Telegram](https://t.me/infibit)
-* [Twitter](https://twitter.com/)
+* [Twitter](https://twitter.com/infibit)
 * [YouTube](https://www.youtube.com)

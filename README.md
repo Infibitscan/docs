@@ -4,7 +4,7 @@ description: Welcome to the documentation portal for Infibit
 
 # Summary
 
-![](.gitbook/assets/docs\_1500x500.png)
+<figure><img src=".gitbook/assets/INF new.jpg" alt=""><figcaption></figcaption></figure>
 
 Welcome to the go-to portal for in-depth information about the Infibit (IBIT) platform and ecosystem and how to interact with them!
 
@@ -17,6 +17,5 @@ The Infibit documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
 
 {% hint style="info" %}
-Join our Telegram group\
-Or say hello at: info@infibitscan.com
+Join our Telegram or Discord group.
 {% endhint %}
