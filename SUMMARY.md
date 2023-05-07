@@ -5,7 +5,7 @@
 ## DOCUMENTATION <a href="#general" id="general"></a>
 
 * [Learn about the INFibit Platform](general/learn-about-the-infibit-platform/README.md)
-  * [INFibit Overview: vision, strategy and platform components](general/learn-about-the-infibit-platform/infibit-overview.md)
+  * [INFibit Overview: Vision, Strategy and Platform Components](general/learn-about-the-infibit-platform/infibit-overview.md)
   * [The INFibit Blockchain](general/learn-about-the-infibit-platform/infibit-network-blockchain/README.md)
     * [Discovering the Network](general/learn-about-the-infibit-platform/infibit-network-blockchain/discovering-the-network.md)
     * [INFibit Consensus](general/learn-about-the-infibit-platform/infibit-network-blockchain/infibit-consensus.md)

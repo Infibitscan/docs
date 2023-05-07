@@ -1,6 +1,6 @@
-# INFibit Overview: vision, strategy and platform components
+# INFibit Overview: Vision, Strategy and Platform Components
 
-Infibit is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto payments and decentralized finance (DeFi).
+INFibit is a decentralized blockchain-powered platform and technology stack whose goal is to enable genuine mass adoption of crypto transactions and decentralized voting influence.
 
 ### The Problem
 
@@ -26,10 +26,10 @@ This is achieved by providing clients with **convenient, mobile-first tools for 
 
 ### Platform Components
 
-The Infibit platform has three main components:
+The INFibit platform has three main components:
 
-1\) **The Infibit blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Infibit platform and ecosystem.
+1\) **The INFibit blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the INFibit platform and ecosystem.
 
 2\) **The mobile-centric open-source technology stack** designed to help businesses and developers plug crypto payments into real-world use cases. This toolkit has subsumed into the new [Infibit Charge](https://chargeweb3.com/) API platform.
 
-3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \\
+3\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform.
